@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ukCDkP72rAWLXVmCRjvoquXkPW2+rOlQhEGCKYZT7rUB2gnp++XcaNYHlAebtrusxq4SkBWhCSDGsdwEPBwQkQ==",
+  "success": true,
+  "projectFilePath": "C:\\WorkingProjects\\C#\\StackedBarChartInPPt\\StackedBarChartInPPt\\StackedBarChartInPPt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rs\\.nuget\\packages\\documentformat.openxml\\3.0.2\\documentformat.openxml.3.0.2.nupkg.sha512",
+    "C:\\Users\\rs\\.nuget\\packages\\documentformat.openxml.framework\\3.0.2\\documentformat.openxml.framework.3.0.2.nupkg.sha512",
+    "C:\\Users\\rs\\.nuget\\packages\\system.io.packaging\\8.0.0\\system.io.packaging.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
